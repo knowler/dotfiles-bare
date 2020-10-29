@@ -19,6 +19,12 @@ alias dotfiles="git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
 alias dots=dotfiles
 ```
 
+## Thoughts
+
+I could use the default branch for documentation and what not and keep the
+systems on separate branches. Then, like I said above, pull commits that are
+relevant to multiple branches or whatever.
+
 ## Idea
 
 https://www.atlassian.com/git/tutorials/dotfiles
